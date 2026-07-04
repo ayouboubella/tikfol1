@@ -1,0 +1,578 @@
+[
+  {
+    "filename": "mexico-vs-south-africa.html",
+    "home": "المكسيك",
+    "away": "جنوب أفريقيا",
+    "group": "A",
+    "date": "2026-06-11",
+    "time": "22:00"
+  },
+  {
+    "filename": "south-korea-vs-czechia.html",
+    "home": "كوريا الجنوبية",
+    "away": "التشيك",
+    "group": "A",
+    "date": "2026-06-11",
+    "time": "19:00"
+  },
+  {
+    "filename": "canada-vs-bosnia.html",
+    "home": "كندا",
+    "away": "البوسنة والهرسك",
+    "group": "B",
+    "date": "2026-06-12",
+    "time": "21:00"
+  },
+  {
+    "filename": "usa-vs-paraguay.html",
+    "home": "الولايات المتحدة",
+    "away": "باراغواي",
+    "group": "D",
+    "date": "2026-06-12",
+    "time": "22:00"
+  },
+  {
+    "filename": "qatar-vs-switzerland.html",
+    "home": "قطر",
+    "away": "سويسرا",
+    "group": "B",
+    "date": "2026-06-13",
+    "time": "21:00"
+  },
+  {
+    "filename": "brazil-vs-morocco.html",
+    "home": "البرازيل",
+    "away": "المغرب",
+    "group": "C",
+    "date": "2026-06-13",
+    "time": "23:00"
+  },
+  {
+    "filename": "haiti-vs-scotland.html",
+    "home": "هايتي",
+    "away": "اسكتلندا",
+    "group": "C",
+    "date": "2026-06-13",
+    "time": "18:00"
+  },
+  {
+    "filename": "australia-vs-turkiye.html",
+    "home": "أستراليا",
+    "away": "تركيا",
+    "group": "D",
+    "date": "2026-06-14",
+    "time": "00:00"
+  },
+  {
+    "filename": "germany-vs-curacao.html",
+    "home": "ألمانيا",
+    "away": "كوراساو",
+    "group": "E",
+    "date": "2026-06-14",
+    "time": "22:00"
+  },
+  {
+    "filename": "netherlands-vs-japan.html",
+    "home": "هولندا",
+    "away": "اليابان",
+    "group": "F",
+    "date": "2026-06-14",
+    "time": "22:00"
+  },
+  {
+    "filename": "ivory-coast-vs-ecuador.html",
+    "home": "ساحل العاج",
+    "away": "الإكوادور",
+    "group": "E",
+    "date": "2026-06-14",
+    "time": "22:00"
+  },
+  {
+    "filename": "sweden-vs-tunisia.html",
+    "home": "السويد",
+    "away": "تونس",
+    "group": "F",
+    "date": "2026-06-15",
+    "time": "00:00"
+  },
+  {
+    "filename": "spain-vs-cape-verde.html",
+    "home": "إسبانيا",
+    "away": "الرأس الأخضر",
+    "group": "H",
+    "date": "2026-06-15",
+    "time": "19:00"
+  },
+  {
+    "filename": "belgium-vs-egypt.html",
+    "home": "بلجيكا",
+    "away": "مصر",
+    "group": "G",
+    "date": "2026-06-15",
+    "time": "21:00"
+  },
+  {
+    "filename": "saudi-arabia-vs-uruguay.html",
+    "home": "السعودية",
+    "away": "الأوروغواي",
+    "group": "H",
+    "date": "2026-06-15",
+    "time": "19:00"
+  },
+  {
+    "filename": "iran-vs-new-zealand.html",
+    "home": "إيران",
+    "away": "نيوزيلندا",
+    "group": "G",
+    "date": "2026-06-16",
+    "time": "00:00"
+  },
+  {
+    "filename": "france-vs-senegal.html",
+    "home": "فرنسا",
+    "away": "السنغال",
+    "group": "I",
+    "date": "2026-06-16",
+    "time": "18:00"
+  },
+  {
+    "filename": "iraq-vs-norway.html",
+    "home": "العراق",
+    "away": "النرويج",
+    "group": "I",
+    "date": "2026-06-16",
+    "time": "21:00"
+  },
+  {
+    "filename": "argentina-vs-algeria.html",
+    "home": "الأرجنتين",
+    "away": "الجزائر",
+    "group": "J",
+    "date": "2026-06-17",
+    "time": "00:00"
+  },
+  {
+    "filename": "austria-vs-jordan.html",
+    "home": "النمسا",
+    "away": "الأردن",
+    "group": "J",
+    "date": "2026-06-17",
+    "time": "03:00"
+  },
+  {
+    "filename": "portugal-vs-dr-congo.html",
+    "home": "البرتغال",
+    "away": "الكونغو الديمقراطية",
+    "group": "K",
+    "date": "2026-06-17",
+    "time": "19:00"
+  },
+  {
+    "filename": "england-vs-croatia.html",
+    "home": "إنجلترا",
+    "away": "كرواتيا",
+    "group": "L",
+    "date": "2026-06-17",
+    "time": "22:00"
+  },
+  {
+    "filename": "ghana-vs-panama.html",
+    "home": "غانا",
+    "away": "بنما",
+    "group": "L",
+    "date": "2026-06-18",
+    "time": "02:00"
+  },
+  {
+    "filename": "uzbekistan-vs-colombia.html",
+    "home": "أوزبكستان",
+    "away": "كولومبيا",
+    "group": "K",
+    "date": "2026-06-18",
+    "time": "05:00"
+  },
+  {
+    "filename": "czechia-vs-south-africa.html",
+    "home": "التشيك",
+    "away": "جنوب أفريقيا",
+    "group": "A",
+    "date": "2026-06-18",
+    "time": "19:00"
+  },
+  {
+    "filename": "switzerland-vs-bosnia.html",
+    "home": "سويسرا",
+    "away": "البوسنة والهرسك",
+    "group": "B",
+    "date": "2026-06-18",
+    "time": "19:00"
+  },
+  {
+    "filename": "canada-vs-qatar.html",
+    "home": "كندا",
+    "away": "قطر",
+    "group": "B",
+    "date": "2026-06-18",
+    "time": "22:00"
+  },
+  {
+    "filename": "mexico-vs-south-korea.html",
+    "home": "المكسيك",
+    "away": "كوريا الجنوبية",
+    "group": "A",
+    "date": "2026-06-19",
+    "time": "03:00"
+  },
+  {
+    "filename": "usa-vs-australia.html",
+    "home": "الولايات المتحدة",
+    "away": "أستراليا",
+    "group": "D",
+    "date": "2026-06-19",
+    "time": "22:00"
+  },
+  {
+    "filename": "scotland-vs-morocco.html",
+    "home": "اسكتلندا",
+    "away": "المغرب",
+    "group": "C",
+    "date": "2026-06-19",
+    "time": "21:00"
+  },
+  {
+    "filename": "brazil-vs-haiti.html",
+    "home": "البرازيل",
+    "away": "هايتي",
+    "group": "C",
+    "date": "2026-06-20",
+    "time": "00:00"
+  },
+  {
+    "filename": "turkiye-vs-paraguay.html",
+    "home": "تركيا",
+    "away": "باراغواي",
+    "group": "D",
+    "date": "2026-06-20",
+    "time": "03:00"
+  },
+  {
+    "filename": "netherlands-vs-sweden.html",
+    "home": "هولندا",
+    "away": "السويد",
+    "group": "F",
+    "date": "2026-06-20",
+    "time": "16:00"
+  },
+  {
+    "filename": "germany-vs-ivory-coast.html",
+    "home": "ألمانيا",
+    "away": "ساحل العاج",
+    "group": "E",
+    "date": "2026-06-20",
+    "time": "19:00"
+  },
+  {
+    "filename": "ecuador-vs-curacao.html",
+    "home": "الإكوادور",
+    "away": "كوراساو",
+    "group": "E",
+    "date": "2026-06-20",
+    "time": "22:00"
+  },
+  {
+    "filename": "tunisia-vs-japan.html",
+    "home": "تونس",
+    "away": "اليابان",
+    "group": "F",
+    "date": "2026-06-21",
+    "time": "01:00"
+  },
+  {
+    "filename": "spain-vs-saudi-arabia.html",
+    "home": "إسبانيا",
+    "away": "السعودية",
+    "group": "H",
+    "date": "2026-06-21",
+    "time": "19:00"
+  },
+  {
+    "filename": "belgium-vs-iran.html",
+    "home": "بلجيكا",
+    "away": "إيران",
+    "group": "G",
+    "date": "2026-06-21",
+    "time": "19:00"
+  },
+  {
+    "filename": "uruguay-vs-cape-verde.html",
+    "home": "الأوروغواي",
+    "away": "الرأس الأخضر",
+    "group": "H",
+    "date": "2026-06-21",
+    "time": "23:00"
+  },
+  {
+    "filename": "new-zealand-vs-egypt.html",
+    "home": "نيوزيلندا",
+    "away": "مصر",
+    "group": "G",
+    "date": "2026-06-22",
+    "time": "00:00"
+  },
+  {
+    "filename": "argentina-vs-austria.html",
+    "home": "الأرجنتين",
+    "away": "النمسا",
+    "group": "J",
+    "date": "2026-06-22",
+    "time": "20:00"
+  },
+  {
+    "filename": "france-vs-iraq.html",
+    "home": "فرنسا",
+    "away": "العراق",
+    "group": "I",
+    "date": "2026-06-23",
+    "time": "00:00"
+  },
+  {
+    "filename": "norway-vs-senegal.html",
+    "home": "النرويج",
+    "away": "السنغال",
+    "group": "I",
+    "date": "2026-06-23",
+    "time": "03:00"
+  },
+  {
+    "filename": "jordan-vs-algeria.html",
+    "home": "الأردن",
+    "away": "الجزائر",
+    "group": "J",
+    "date": "2026-06-23",
+    "time": "06:00"
+  },
+  {
+    "filename": "portugal-vs-uzbekistan.html",
+    "home": "البرتغال",
+    "away": "أوزبكستان",
+    "group": "K",
+    "date": "2026-06-23",
+    "time": "19:00"
+  },
+  {
+    "filename": "england-vs-ghana.html",
+    "home": "إنجلترا",
+    "away": "غانا",
+    "group": "L",
+    "date": "2026-06-23",
+    "time": "23:00"
+  },
+  {
+    "filename": "panama-vs-croatia.html",
+    "home": "بنما",
+    "away": "كرواتيا",
+    "group": "L",
+    "date": "2026-06-24",
+    "time": "02:00"
+  },
+  {
+    "filename": "colombia-vs-dr-congo.html",
+    "home": "كولومبيا",
+    "away": "الكونغو الديمقراطية",
+    "group": "K",
+    "date": "2026-06-24",
+    "time": "05:00"
+  },
+  {
+    "filename": "switzerland-vs-canada.html",
+    "home": "سويسرا",
+    "away": "كندا",
+    "group": "B",
+    "date": "2026-06-24",
+    "time": "19:00"
+  },
+  {
+    "filename": "bosnia-vs-qatar.html",
+    "home": "البوسنة والهرسك",
+    "away": "قطر",
+    "group": "B",
+    "date": "2026-06-24",
+    "time": "19:00"
+  },
+  {
+    "filename": "scotland-vs-brazil.html",
+    "home": "اسكتلندا",
+    "away": "البرازيل",
+    "group": "C",
+    "date": "2026-06-25",
+    "time": "00:00"
+  },
+  {
+    "filename": "morocco-vs-haiti.html",
+    "home": "المغرب",
+    "away": "هايتي",
+    "group": "C",
+    "date": "2026-06-25",
+    "time": "00:00"
+  },
+  {
+    "filename": "czechia-vs-mexico.html",
+    "home": "التشيك",
+    "away": "المكسيك",
+    "group": "A",
+    "date": "2026-06-25",
+    "time": "01:00"
+  },
+  {
+    "filename": "south-africa-vs-south-korea.html",
+    "home": "جنوب أفريقيا",
+    "away": "كوريا الجنوبية",
+    "group": "A",
+    "date": "2026-06-25",
+    "time": "01:00"
+  },
+  {
+    "filename": "ecuador-vs-germany.html",
+    "home": "الإكوادور",
+    "away": "ألمانيا",
+    "group": "E",
+    "date": "2026-06-25",
+    "time": "23:00"
+  },
+  {
+    "filename": "curacao-vs-ivory-coast.html",
+    "home": "كوراساو",
+    "away": "ساحل العاج",
+    "group": "E",
+    "date": "2026-06-25",
+    "time": "23:00"
+  },
+  {
+    "filename": "japan-vs-sweden.html",
+    "home": "اليابان",
+    "away": "السويد",
+    "group": "F",
+    "date": "2026-06-26",
+    "time": "02:00"
+  },
+  {
+    "filename": "tunisia-vs-netherlands.html",
+    "home": "تونس",
+    "away": "هولندا",
+    "group": "F",
+    "date": "2026-06-26",
+    "time": "02:00"
+  },
+  {
+    "filename": "turkiye-vs-usa.html",
+    "home": "تركيا",
+    "away": "الولايات المتحدة",
+    "group": "D",
+    "date": "2026-06-26",
+    "time": "03:00"
+  },
+  {
+    "filename": "paraguay-vs-australia.html",
+    "home": "باراغواي",
+    "away": "أستراليا",
+    "group": "D",
+    "date": "2026-06-26",
+    "time": "03:00"
+  },
+  {
+    "filename": "norway-vs-france.html",
+    "home": "النرويج",
+    "away": "فرنسا",
+    "group": "I",
+    "date": "2026-06-26",
+    "time": "22:00"
+  },
+  {
+    "filename": "senegal-vs-iraq.html",
+    "home": "السنغال",
+    "away": "العراق",
+    "group": "I",
+    "date": "2026-06-26",
+    "time": "22:00"
+  },
+  {
+    "filename": "cape-verde-vs-saudi-arabia.html",
+    "home": "الرأس الأخضر",
+    "away": "السعودية",
+    "group": "H",
+    "date": "2026-06-27",
+    "time": "03:00"
+  },
+  {
+    "filename": "uruguay-vs-spain.html",
+    "home": "الأوروغواي",
+    "away": "إسبانيا",
+    "group": "H",
+    "date": "2026-06-27",
+    "time": "02:00"
+  },
+  {
+    "filename": "egypt-vs-iran.html",
+    "home": "مصر",
+    "away": "إيران",
+    "group": "G",
+    "date": "2026-06-27",
+    "time": "04:00"
+  },
+  {
+    "filename": "new-zealand-vs-belgium.html",
+    "home": "نيوزيلندا",
+    "away": "بلجيكا",
+    "group": "G",
+    "date": "2026-06-27",
+    "time": "04:00"
+  },
+  {
+    "filename": "panama-vs-england.html",
+    "home": "بنما",
+    "away": "إنجلترا",
+    "group": "L",
+    "date": "2026-06-28",
+    "time": "00:00"
+  },
+  {
+    "filename": "croatia-vs-ghana.html",
+    "home": "كرواتيا",
+    "away": "غانا",
+    "group": "L",
+    "date": "2026-06-28",
+    "time": "00:00"
+  },
+  {
+    "filename": "colombia-vs-portugal.html",
+    "home": "كولومبيا",
+    "away": "البرتغال",
+    "group": "K",
+    "date": "2026-06-28",
+    "time": "02:30"
+  },
+  {
+    "filename": "dr-congo-vs-uzbekistan.html",
+    "home": "الكونغو الديمقراطية",
+    "away": "أوزبكستان",
+    "group": "K",
+    "date": "2026-06-28",
+    "time": "02:30"
+  },
+  {
+    "filename": "algeria-vs-austria.html",
+    "home": "الجزائر",
+    "away": "النمسا",
+    "group": "J",
+    "date": "2026-06-28",
+    "time": "05:00"
+  },
+  {
+    "filename": "jordan-vs-argentina.html",
+    "home": "الأردن",
+    "away": "الأرجنتين",
+    "group": "J",
+    "date": "2026-06-28",
+    "time": "05:00"
+  }
+]
