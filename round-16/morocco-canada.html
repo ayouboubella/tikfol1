@@ -1185,10 +1185,11 @@
     const SITE_URL1 = 'https://tikfol.com/live';
 
     function openPopup1() {
-   window.open(
-      'https://tikfol.com/live',
-      '_blank'
-   );
+   document.getElementById('overlay1').classList.add('active');
+   document.getElementById('popup1').classList.add('active');
+   document.body.style.overflow = 'hidden';
+   document.getElementById('loader1').classList.remove('hidden');
+   document.getElementById('siteFrame1').src = 'https://tikfol.com/live';
 }
 
     function closePopup1() {
